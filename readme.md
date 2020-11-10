@@ -6,3 +6,6 @@ The image and the information has been taken from Google. I have tried to
 inculcate all the information to give it a worthy presentation.
 ![](img/wel.png)
 ![](img/home.png)
+
+
+https://sh-reya.github.io/Traveller-s-Diary/index
